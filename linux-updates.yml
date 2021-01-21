@@ -3,4 +3,4 @@
   max_fail_percentage: 0
   become: yes
   roles:
-    - ryandaniels.server_update_reboot
+    - thorian93.ansible_role_upgrade
