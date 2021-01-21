@@ -1,6 +1,5 @@
 ---
 - hosts: all
-  max_fail_percentage: 0
   become: yes
   roles:
-    - thorian93.ansible_role_upgrade
+    - ryandaniels.server_update_reboot
