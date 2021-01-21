@@ -4,4 +4,4 @@
   serial: 1
   become: yes
   roles:
-    - server-update-reboot
+    - ryandaniels.server_update_reboot
