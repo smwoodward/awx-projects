@@ -5,3 +5,4 @@
     - ryandaniels.server_update_reboot
   vars:
     debug_enabled_default: true
+    proxy_env: []
