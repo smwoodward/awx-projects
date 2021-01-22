@@ -4,3 +4,4 @@
     - sbaerlocher.wmi_exporter
   vars:
    wmi_exporter_architecture: amd64
+   wmi_exporter_force_package: true
