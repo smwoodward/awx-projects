@@ -2,3 +2,4 @@
 - src: sbaerlocher.wmi_exporter
 - src: ryandaniels.server_update_reboot
 - src: sparknsh.patching_windows
+- src: chriscowley.unifi_exporter
