@@ -3,5 +3,5 @@
  roles:
    - sbaerlocher.wmi_exporter
  vars:
-  wmi_exporter_architecture: amd64
-  wmi_exporter_enabled_collectors: ad,cpu,cs,dhcp,dns,logical_disk,net,os,service,system,
+   wmi_exporter_architecture: amd64
+   wmi_exporter_enabled_collectors: ad,cpu,cs,dhcp,dns,logical_disk,net,os,service,system,
