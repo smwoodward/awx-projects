@@ -1,0 +1,6 @@
+---
+-hosts: all
+ roles:
+   - sbaerlocher.wmi_exporter
+ vars:
+  wmi_exporter_architecture: amd64
