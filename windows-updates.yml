@@ -3,8 +3,10 @@
   any_errors_fatal: true
   roles:
     - sparknsh.patching_windows
-  patching_windows_reboot_timeout: 3600
-  patching_windows_categories:
-    - "CriticalUpdates"
-    - "SecurityUpdates"
-    - "Updates"
+  vars:
+    patching_windows_reboot: yes
+    patching_windows_reboot_timeout: 3600
+    patching_windows_categories:
+      - "CriticalUpdates"
+      - "SecurityUpdates"
+      - "Updates"
