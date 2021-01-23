@@ -3,4 +3,4 @@
 - src: ryandaniels.server_update_reboot
 - src: sparknsh.patching_windows
 - src: chriscowley.unifi_exporter
-- src: cloudalchemy.node-exporter
+- src: darkwizard242.node_exporter
