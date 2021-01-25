@@ -5,3 +5,4 @@
   vars:
     splunk_uf_ver: 8.1.1
     splunk_uf_product: universalforwarder
+    splunk_uf_checksums: 8.1.1: MD5:4774db2f720b4fbf892bef6ac4186817
