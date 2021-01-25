@@ -5,3 +5,4 @@
 - src: chriscowley.unifi_exporter
 - src: darkwizard242.node_exporter
 - src: andrewmackett.splunk_common
+- src: andrewrothstein.splunk_uf
