@@ -1,0 +1,7 @@
+---
+- hosts: all
+  roles:
+    - andrewrothstein.splunk_uf
+  vars:
+    splunk_uf_ver: 8.1.1
+    splunk_uf_product: universalforwarder
