@@ -4,3 +4,4 @@
 - src: sparknsh.patching_windows
 - src: chriscowley.unifi_exporter
 - src: darkwizard242.node_exporter
+- src: andrewmackett.splunk_common
