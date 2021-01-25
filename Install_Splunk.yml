@@ -8,3 +8,5 @@
      splunk_common_admin_user: admin
      splunk_common_admin_passwd: JMWccwfam/2016!!
      enable_ldap: false
+     splunk_common_admin_salt: c0be578b4b8d82fa
+     splunk_secret: JMWccwfam/2016!!
