@@ -3,7 +3,7 @@
   roles:
     - scathatheworm.splunk-forwarder
   vars:
-    splunkforwarder_version: 8.1.1
+    splunkforwarder_version: [8,1,1]
     splunk_deploymentServer: 192.168.40.26
     splunk_deploymentServer_port: 9997
     splunk_nix_group: splunk
