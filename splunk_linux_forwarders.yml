@@ -1,8 +1,10 @@
 ---
 - hosts: all
   roles:
-    - andrewrothstein.splunk_uf
+    - scathatheworm.splunk-forwarder
   vars:
-    splunk_uf_ver: 8.1.1
-    splunk_uf_product: universalforwarder
-    splunk_uf_checksums: e504f098dfe802f994d0d22548d603aeb9114cf166fd691376fae59b09dd7140
+    splunkforwarder_version: 8.1.1
+    splunk_deploymentServer: 192.168.40.26
+    splunk_deploymentServer_port: 9997
+    splunk_nix_group: splunk
+    splunk_nix_user: splunk
