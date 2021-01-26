@@ -3,4 +3,4 @@
   roles:
     - austincloudguru.splunk-forwarder
   vars:
-    splunk_forwarder_indexer: "192.168.40.26:9997"
+    splunk_forwarder_indexer: "192.168.40.28:9997"
